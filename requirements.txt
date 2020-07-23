@@ -21,26 +21,17 @@ entrypoints==0.3
 enum-compat==0.0.3
 Flask==1.1.2
 idna==2.10
-importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
-ipykernel @ file:///C:/ci/ipykernel_1594829155762/work/dist/ipykernel-5.3.2-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1593433781269/work
 ipython-genutils==0.2.0
 ipywidgets==7.5.1
 itsdangerous==1.1.0
-jedi @ file:///C:/ci/jedi_1592833832328/work
 Jinja2==2.11.2
 jmespath==0.10.0
 joblib==0.16.0
-jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
-jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
 jupyter-core==4.6.3
 kiwisolver==1.2.0
-MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
 matplotlib==3.3.0
-mistune @ file:///C:/ci/mistune_1594373272338/work
 nb-conda==2.2.1
 nb-conda-kernels==2.2.3
-nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
 nbformat==5.0.7
 notebook==6.0.3
 numpy==1.19.0
@@ -49,7 +40,6 @@ pandas==1.0.5
 pandocfilters==1.4.2
 parso==0.7.0
 pathtools==0.1.2
-pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
 Pillow==7.2.0
 prometheus-client==0.8.0
 prompt-toolkit==3.0.5
@@ -85,7 +75,6 @@ tzlocal==2.1
 urllib3==1.25.10
 validators==0.16.0
 watchdog==0.10.3
-wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
 Werkzeug==1.0.1
 widgetsnbextension==3.5.1
