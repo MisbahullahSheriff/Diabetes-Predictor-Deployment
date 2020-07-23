@@ -1,0 +1,93 @@
+altair==4.1.0
+astor==0.8.1
+attrs==19.3.0
+autopep8==1.5.3
+backcall==0.2.0
+base58==2.0.1
+bleach==3.1.5
+blinker==1.4
+boto3==1.14.26
+botocore==1.17.26
+cachetools==4.1.1
+certifi==2020.6.20
+chardet==3.0.4
+click==7.1.2
+colorama==0.4.3
+cycler==0.10.0
+decorator==4.4.2
+defusedxml==0.6.0
+docutils==0.15.2
+entrypoints==0.3
+enum-compat==0.0.3
+Flask==1.1.2
+idna==2.10
+importlib-metadata @ file:///C:/ci/importlib-metadata_1593446525189/work
+ipykernel @ file:///C:/ci/ipykernel_1594829155762/work/dist/ipykernel-5.3.2-py3-none-any.whl
+ipython @ file:///C:/ci/ipython_1593433781269/work
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+itsdangerous==1.1.0
+jedi @ file:///C:/ci/jedi_1592833832328/work
+Jinja2==2.11.2
+jmespath==0.10.0
+joblib==0.16.0
+jsonschema @ file:///C:/ci/jsonschema_1594363671836/work
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1594826976318/work
+jupyter-core==4.6.3
+kiwisolver==1.2.0
+MarkupSafe @ file:///C:/ci/markupsafe_1594405949945/work
+matplotlib==3.3.0
+mistune @ file:///C:/ci/mistune_1594373272338/work
+nb-conda==2.2.1
+nb-conda-kernels==2.2.3
+nbconvert @ file:///C:/ci/nbconvert_1594372737468/work
+nbformat==5.0.7
+notebook==6.0.3
+numpy==1.19.0
+packaging==20.4
+pandas==1.0.5
+pandocfilters==1.4.2
+parso==0.7.0
+pathtools==0.1.2
+pickleshare @ file:///C:/ci/pickleshare_1594374056827/work
+Pillow==7.2.0
+prometheus-client==0.8.0
+prompt-toolkit==3.0.5
+protobuf==3.12.2
+pyarrow==0.17.1
+pycodestyle==2.6.0
+pydeck==0.4.0b2
+Pygments==2.6.1
+pyparsing==2.4.7
+pyrsistent==0.16.0
+python-dateutil==2.8.1
+pytz==2020.1
+pywin32==227
+pywinpty==0.5.7
+pyzmq==19.0.1
+requests==2.24.0
+s3transfer==0.3.3
+scikit-learn==0.23.1
+scipy==1.5.1
+seaborn==0.10.1
+Send2Trash==1.5.0
+six==1.15.0
+sklearn==0.0
+streamlit==0.63.1
+terminado==0.8.3
+testpath==0.4.4
+threadpoolctl==2.1.0
+toml==0.10.1
+toolz==0.10.0
+tornado==6.0.4
+traitlets==4.3.3
+tzlocal==2.1
+urllib3==1.25.10
+validators==0.16.0
+watchdog==0.10.3
+wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
+webencodings==0.5.1
+Werkzeug==1.0.1
+widgetsnbextension==3.5.1
+wincertstore==0.2
+zipp==3.1.0
