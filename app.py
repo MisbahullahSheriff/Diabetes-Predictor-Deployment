@@ -46,7 +46,7 @@ def main():
     elif float(g) < 0:
         raise ValueError("Glucose Level: Value must be non-negative")
 
-    bp = st.text_input("Blood Pressure (mmHg)", "85")
+    bp = st.text_input("Blood Pressure (mm Hg)", "85")
     if float(bp) > 300:
         raise ValueError("Blood Pressure: Given input beyond limit")
     elif float(bp) < 0:
@@ -64,7 +64,7 @@ def main():
     elif float(ins) < 0:
         raise ValueError("Insulin Level: Value must be non-negative")
 
-    bmi = st.text_input("Body Mass Index (eg. 25)", "25")
+    bmi = st.text_input("Body Mass Index", "25")
     if float(bmi) > 100:
         raise ValueError("Body Mass Index: Given input beyond limit")
     elif float(bmi) < 0:
