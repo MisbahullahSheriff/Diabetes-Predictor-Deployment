@@ -105,7 +105,7 @@ def main():
         else:
             st.markdown(safe_html, unsafe_allow_html=True)
 
-    if st.button("Look me up"):
+    if st.button("LOOK ME UP"):
         st.info(
             "LinkedIn: https://www.linkedin.com/in/mohammed-misbahullah-sheriff-b684091a1")
         st.success("GitHub: https://github.com/MisbahullahSheriff")
