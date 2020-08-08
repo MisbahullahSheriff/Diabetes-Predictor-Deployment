@@ -13,7 +13,8 @@
 <br />
 
 ### Glimpse of the Application:
-<img src="readme_resources/img1.png">
+<img src="readme_resources/image1.png">
+<img src="readme_resources/image2.png">
 
 <br />
 
