@@ -10,7 +10,6 @@
 
 ### Glimpse of the Application:
 <img src="readme_resources/img1.png">
-<img src="readme_resources/img2.png">
 
 **---------- IMPORTANT NOTE ----------**
 * If the web-app throws an **error** message as shown below, it's probably due to the monthly limitation provided by Heroku being exceeded.
