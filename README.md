@@ -24,10 +24,7 @@
 
 <br />
 
-**Checkout the application!** 
-
-<br />
-
+**Checkout the application!** <br /><br />
 **Give this repo a :star: if you liked my work.**
 
 ### Thank You!:smiley:
