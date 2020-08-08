@@ -24,6 +24,7 @@
 
 <br />
 
+**Checkout the application!** <br />
 **Give this repo a :star: if you liked my work.**
 
 ### Thank You!:smiley:
